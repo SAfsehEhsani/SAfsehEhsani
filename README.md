@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <h3>💎 Premium Developer | 🤖 AI Innovator | 🎯 Tech Pioneer</h3>
+  <h3>💎 Software Developer | 🤖 AI Innovator | 🎯 Tech Pioneer</h3>
   
   [![Profile Views](https://komarev.com/ghpvc/?username=SAfsehEhsani&style=for-the-badge&color=00D9FF)](https://github.com/SAfsehEhsani)
   [![GitHub followers](https://img.shields.io/github/followers/SAfsehEhsani?style=for-the-badge&color=00D9FF)](https://github.com/SAfsehEhsani)
