@@ -29,12 +29,13 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-6596-42ea-8dbb-ea6641165189.gif" width="100" />
   
-  **📍 Based in India 🇮🇳 | 💼 5+ Years of Experience | 🎓 Continuous Learner**
+  **📍 Based in India 🇮🇳 | 💼 Problem Solver | 🎓 Continuous Learner**
 </div>
 
 ---
 
 ## 🎯 About Me
+
 
 <div align="left">
 
@@ -130,7 +131,7 @@ to deliver high-impact applications.
 | **Total Commits** | 1000+ commits across all repositories |
 | **Public Repositories** | 30+ active projects |
 | **Open Source** | 10+ open-source contributions |
-| **Years Active** | 5+ years of continuous development |
+| **Years Active** | years of continuous development |
 | **Code Quality** | Expert level - Production-grade standards |
 
 </div>
@@ -226,10 +227,10 @@ to deliver high-impact applications.
 
 | Domain | Skills | Proficiency |
 |--------|--------|-------------|
-| **Full-Stack Dev** | React, Node.js, TypeScript, Django | ⭐⭐⭐⭐⭐ |
-| **AI/ML** | TensorFlow, PyTorch, scikit-learn, Deep Learning | ⭐⭐⭐⭐⭐ |
-| **Mobile Dev** | Flutter, Cross-platform Development | ⭐⭐⭐⭐⭐ |
-| **Backend** | Node.js, Django, FastAPI, Microservices | ⭐⭐⭐⭐⭐ |
+| **Full-Stack Dev** | Python , HTML ,CSS ,JS, React, Node.js, TypeScript, Django | ⭐⭐⭐⭐⭐ |
+| **AI/ML** | ML, Gen AI, TensorFlow, PyTorch, scikit-learn, Deep Learning | ⭐⭐⭐⭐⭐ |
+| **Mobile Dev** | Flutter, Android(Java), Cross-platform Development | ⭐⭐⭐⭐⭐ |
+| **Backend** | Node.js, Django, FastAPI, Django | ⭐⭐⭐⭐⭐ |
 | **Databases** | PostgreSQL, MongoDB, Firebase, Redis | ⭐⭐⭐⭐☆ |
 | **DevOps/Cloud** | Docker, AWS, GCP, GitHub Actions, CI/CD | ⭐⭐⭐⭐☆ |
 
@@ -264,7 +265,7 @@ to deliver high-impact applications.
 ## 🎓 Goals & Vision
 
 <div align="center">
-  <h3>🌟 My 2024-2025 Roadmap</h3>
+  <h3>🌟 My 2026-27 Roadmap</h3>
 </div>
 
 - 🚀 **Q2 2026** - Launch AI-powered SaaS platform
@@ -361,7 +362,7 @@ If my work has been helpful to you:
 
 ### 💫 Thank You for Visiting!
 
-*"The best way to predict the future is to invent it."* — Alan Kay
+*"The best way to predict the future is to invent it."* 
 
 **Let's build something extraordinary together! 🚀✨**
 
@@ -369,7 +370,7 @@ If my work has been helpful to you:
 
 <div align="center">
 
-**Made with 💖 from India 🇮🇳**
+**Made with 💖 by Syed Afseh Ehsani**
 
 ![Profile Last Updated](https://img.shields.io/badge/Last%20Updated-June%202026-00D9FF?style=flat-square)
 
