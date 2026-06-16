@@ -29,7 +29,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-6596-42ea-8dbb-ea6641165189.gif" width="100" />
   
-  **📍 Based in India 🇮🇳 | 💼 5+ Years of Experience | 🎓 Continuous Learner**
+  **📍 Based in India 🇮🇳 | 💼 Problem Solver | 🎓 Continuous Learner**
 </div>
 
 ---
@@ -59,7 +59,7 @@ to deliver high-impact applications.
 
 ---
 
-## 🛠️ Advanced Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Core Languages
 <div>
@@ -130,7 +130,7 @@ to deliver high-impact applications.
 | **Total Commits** | 1000+ commits across all repositories |
 | **Public Repositories** | 30+ active projects |
 | **Open Source** | 10+ open-source contributions |
-| **Years Active** | 5+ years of continuous development |
+| **Years Active** | years of continuous development |
 | **Code Quality** | Expert level - Production-grade standards |
 
 </div>
@@ -227,8 +227,8 @@ to deliver high-impact applications.
 | Domain | Skills | Proficiency |
 |--------|--------|-------------|
 | **Full-Stack Dev** | React, Node.js, TypeScript, Django | ⭐⭐⭐⭐⭐ |
-| **AI/ML** | TensorFlow, PyTorch, scikit-learn, Deep Learning | ⭐⭐⭐⭐⭐ |
-| **Mobile Dev** | Flutter, Cross-platform Development | ⭐⭐⭐⭐⭐ |
+| **AI/ML** | Machine Learning | LLM |Gen AI | RAG | TensorFlow, PyTorch, scikit-learn, Deep Learning | ⭐⭐⭐⭐⭐ |
+| **Mobile Dev** | Flutter, Cross-platform Development,Android (Java) | ⭐⭐⭐⭐⭐ |
 | **Backend** | Node.js, Django, FastAPI, Microservices | ⭐⭐⭐⭐⭐ |
 | **Databases** | PostgreSQL, MongoDB, Firebase, Redis | ⭐⭐⭐⭐☆ |
 | **DevOps/Cloud** | Docker, AWS, GCP, GitHub Actions, CI/CD | ⭐⭐⭐⭐☆ |
@@ -344,12 +344,11 @@ If my work has been helpful to you:
 
 | Icon | Fact |
 |------|------|
-| 💻 | Building software for 5+ years |
+| 💻 | Building software for years as team and freelancer |
 | 🤖 | AI/ML enthusiast since 2020 |
 | 🌍 | Solving global problems through code |
 | 📚 | Always learning something new |
 | ☕ | Fueled by coffee & creative problem-solving |
-| 🎵 | Coding soundtrack: Lo-fi Hip Hop 🎧 |
 | 🏃 | Marathon runner in spare time |
 | 🌱 | Advocate for sustainable technology |
 
@@ -361,7 +360,7 @@ If my work has been helpful to you:
 
 ### 💫 Thank You for Visiting!
 
-*"The best way to predict the future is to invent it."* — Alan Kay
+*"The best way to predict the future is to invent it."* 
 
 **Let's build something extraordinary together! 🚀✨**
 
@@ -369,7 +368,7 @@ If my work has been helpful to you:
 
 <div align="center">
 
-**Made with 💖 from India 🇮🇳**
+**Made with 💖 By Syed Afseh Ehsani**
 
 ![Profile Last Updated](https://img.shields.io/badge/Last%20Updated-June%202026-00D9FF?style=flat-square)
 
