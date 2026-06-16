@@ -15,14 +15,14 @@
   <a href="https://github.com/SAfsehEhsani">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://linkedin.com/in/SAfsehEhsani">
+  <a href="https://www.linkedin.com/in/syed-afseh-ehsani/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:syedafsehehsani@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://twitter.com/SAfsehEhsani">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://youtube.com/@afsh_coder?si=go0dcR-F9P4rb--M">
+    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=YOUTUBE&logoColor=white" alt="Youtube">
   </a>
 </div>
 
