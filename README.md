@@ -40,9 +40,10 @@
 <div align="left">
 
 ```
-I'm a results-driven Full-Stack Developer & AI/ML Specialist based in India, 
+I'm a results-driven Software Developer(App & Web) & AI/ML Specialist based in India, 
 passionate about architecting scalable solutions that transform ideas into 
-innovative products. I combine technical excellence with creative problem-solving 
+innovative products.
+I combine technical excellence with creative problem-solving 
 to deliver high-impact applications.
 ```
 
