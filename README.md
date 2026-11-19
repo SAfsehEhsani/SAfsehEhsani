@@ -86,5 +86,5 @@ These projects are selected from my public repositories. Open each repository to
 
 <div align="center">
   <em>Keep learning, keep building, and share what you discover.</em><br />
-  **Made by Syed Afseh Ehsani**
+  ## Made by Syed Afseh Ehsani 
 </div>
